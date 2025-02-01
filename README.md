@@ -6,6 +6,7 @@ A computer science student with a knack for web development and a growing fascin
 I'm an enthusiastic programmer, constantly seeking new challenges and opportunities to expand my skillset.
 Excited to see what the future of tech holds!
 
+Languages:
 ![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?logo=tailwindcss&logoColor=white)
