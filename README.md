@@ -4,7 +4,7 @@ My name is Batoul Kazak, I am a fourth year student in the College of Computer S
 
 A computer science student with a knack for web development and a growing fascination with the power of C++ and C#.
 I'm an enthusiastic programmer, constantly seeking new challenges and opportunities to expand my skillset.
-Excited to see what the future of tech holds!
+Excited to see what the future of tech holds! 
 
 Languages:
 ![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)
@@ -18,6 +18,5 @@ Languages:
 I am currently working on developing websites using typescript, React, CSS, Tailwind.
 I have finished the intermediate level of React, and I am working on finishing the advanced level,
 I am using all that I learned in my [Essenslieferung](https://github.com/Batoul-Kazak/Essenslieferung)
- project, you can find it on my github, give me ideas to include in
-my project so i can best my skills.
+ project, give me ideas to include in my project so i can best my skills. 🐋
 I am also learning React native for my graduation project.
