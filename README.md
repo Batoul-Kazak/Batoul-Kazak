@@ -8,7 +8,7 @@ Excited to see what the future of tech holds!
 
 Languages:
 ![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)
-[React Native (GitHub)](https://github.com/facebook/react-native)
+[React Native](https://reactnative.dev/)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)
