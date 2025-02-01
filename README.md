@@ -8,11 +8,11 @@ Excited to see what the future of tech holds!
 
 Languages:
 ![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2361DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2361DAFB?logo=react&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120?logo=csharp&logoColor=white)
 
