@@ -4,7 +4,6 @@ My name is Batoul Kazak, I am a fourth year student in the College of Computer S
 I'm an enthusiastic programmer, constantly seeking new challenges and opportunities to expand my skillset.
 Excited to see what the future of tech holds! 😊
 
-[![GitHub](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/social/github.svg)](https://github.com/your_username)
 Skills:
 ![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)
